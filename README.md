@@ -1,16 +1,31 @@
-## Hi there 👋
+# ASHANANI Institute
 
-<!--
-**ashanani-institute/ashanani-institute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder:** ASHANANI (Ashanani Vashee)  
+**ORCID:** https://orcid.org/0009-0000-2128-2631  
 
-Here are some ideas to get you started:
+The ASHANANI Institute explores the unified geometry of consciousness, coherence, and emergence.  
+Our current research includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔷 Universal Unity Theory (UUT)
+A conceptual framework proposing coherence-based unification across geometry, field dynamics, information structure, and consciousness.
+
+### 🔷 ASHANA Model
+An applied framework connecting theoretical physics, somatic alignment, and human development into a single coherence-based system.
+
+### 🔬 Research Focus Areas
+- Unified geometry  
+- Information coherence  
+- Field dynamics  
+- Consciousness + physics  
+- Complexity + emergence  
+- Somatic systems and alignment  
+
+### 🎨 Art & Exhibitions  
+Interactive installations inspired by theoretical models of coherence and the structure of the soul.
+
+### 📄 Publications  
+The UUT conceptual draft will be released on Zenodo in December 2025.  
+More papers will follow as the theoretical structure formalizes mathematically.
+
+### 📫 Contact  
+founder@ashanani.org
